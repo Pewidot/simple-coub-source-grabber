@@ -1,4 +1,5 @@
 # simple-coub-source-grabber
+Download Windows-Executable here: https://github.com/Pewidot/simple-coub-source-grabber/blob/main/coub_source_grabber.exe
 Simple Python script to get the akamaihd source file of coub.com videos
 Reminder you have to install beautifulsoup4 with "pip install beautifulsoup4" to use this script
 This script simply grabs the akamaihd source for any coub.com Video by analysing the javascript part of the website
